@@ -38,4 +38,11 @@ EXEMPLOS DE SD:
 Internet
 Intranet
 Computação móvel
+Caixas automaticos de bancos
+WEB Servers
+Pool de Processadores
+
+
+MODELO PEER-TO-PEER
+
 
