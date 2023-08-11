@@ -7,4 +7,35 @@ Avaliação:
 2 Formas de avaliação
 Sem prova
 
+------------------------------------------------
+
+CARACTERÍSTICAS DE UM SISTEMA DISTRIBUIDO:
+
+Toda solicitaçaõ tem uma resposta.
+InexistÊncia de relógio global
+falhas independentes / sistema tolernte a falhas
+economia -> melhor custo/desempenho
+velocidade
+Sistema CSCW CSCG
+Maior confiabilidade e disponibilidade
+Facilidade Expansão
+Compartilhamento de Dados e informações P2P
+Compartilhamento de recursos
+
+DESVANTAGENS:
+Segurança
+SW distribuido
+gerencia recursos complexa
+Alto custo p/ implementar
+
+DESAFIOS:
+Comunicação segura
+Confiabilidade
+Localização
+Coordenação
+
+EXEMPLOS DE SD:
+Internet
+Intranet
+Computação móvel
 
