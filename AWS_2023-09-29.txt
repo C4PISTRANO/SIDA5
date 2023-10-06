@@ -1,0 +1,30 @@
+Depois de concluir este módulo, você poderá:
+•
+identificar recursos e diretrizes de conformidade dos laboratórios de aprendizagem da AWS 
+Academy;
+•
+identificar o modelo de responsabilidade compartilhada da AWS;
+•
+identificar algumas práticas recomendadas da AWS para segurança;
+•
+reconhecer as práticas recomendadas de conformidade e segurança dos laboratórios de 
+aprendizagem da AWS Academy;
+•
+identificar onde encontrar recursos de segurança da AWS.
+
+
+
+06/10/2023
+
+Se for usar de casa, no Windows.
+Temos que usar o outro tipo de chave
+
+
+
+No FileZilla:
+Ir no menu 'Gerenciador de sites'
+[Novo Site]
+Protocolo: <SFTP - SSH File Transfer Protocol
+Host: <Pegar no exemplo dentro do menu Conectar-se à instância (última linha) *somente trecho que vai depois do @*>
+Usuário: <ec2-user>
+Arquivo com chave: <colocar endereço onde está a chave .pem>
